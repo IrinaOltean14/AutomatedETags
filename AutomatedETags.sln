@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomatedETags", "AutomatedETags\AutomatedETags.csproj", "{1B424D44-2372-4933-A1E1-75A271E1AFF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETagDemoApp", "ETagDemoApp\ETagDemoApp.csproj", "{9D1CA6EF-B042-4C8C-9284-98D1CED44B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B424D44-2372-4933-A1E1-75A271E1AFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B424D44-2372-4933-A1E1-75A271E1AFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B424D44-2372-4933-A1E1-75A271E1AFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B424D44-2372-4933-A1E1-75A271E1AFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1CA6EF-B042-4C8C-9284-98D1CED44B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1CA6EF-B042-4C8C-9284-98D1CED44B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1CA6EF-B042-4C8C-9284-98D1CED44B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1CA6EF-B042-4C8C-9284-98D1CED44B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2164BD8-008E-4B94-AFA7-15D130A84820}
+	EndGlobalSection
+EndGlobal
